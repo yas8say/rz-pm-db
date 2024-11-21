@@ -18,12 +18,9 @@ jobs:
         with:
           submodules: true
 
-      # Install Node.js (latest LTS version)
-      - name: Install Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "lts"
-
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.1.0
+                  
       # Step 2: Set up Hugo
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3.0.0
