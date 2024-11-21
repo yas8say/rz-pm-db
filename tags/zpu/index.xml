@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZPU on Rizin | Package Manager</title>
-    <link>https://rizin.netlify.app/tags/zpu/</link>
+    <link>https://packages.rizin.re/tags/zpu/</link>
     <description>Recent content in ZPU on Rizin | Package Manager</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Oct 2024 18:03:47 +0530</lastBuildDate>
-    <atom:link href="https://rizin.netlify.app/tags/zpu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://packages.rizin.re/tags/zpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zpu</title>
-      <link>https://rizin.netlify.app/packages/zpu/</link>
+      <link>https://packages.rizin.re/packages/zpu/</link>
       <pubDate>Wed, 16 Oct 2024 18:03:47 +0530</pubDate>
-      <guid>https://rizin.netlify.app/packages/zpu/</guid>
+      <guid>https://packages.rizin.re/packages/zpu/</guid>
       <description></description>
     </item>
   </channel>

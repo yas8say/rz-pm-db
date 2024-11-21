@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rizin | Package Manager</title>
-    <link>https://rizin.netlify.app/categories/</link>
+    <link>https://packages.rizin.re/categories/</link>
     <description>Recent content in Categories on Rizin | Package Manager</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2024 18:03:47 +0530</lastBuildDate>
-    <atom:link href="https://rizin.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://packages.rizin.re/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://rizin.netlify.app/categories/development/</link>
+      <link>https://packages.rizin.re/categories/development/</link>
       <pubDate>Sun, 10 Nov 2024 18:03:47 +0530</pubDate>
-      <guid>https://rizin.netlify.app/categories/development/</guid>
+      <guid>https://packages.rizin.re/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Dissassembly</title>
-      <link>https://rizin.netlify.app/categories/dissassembly/</link>
+      <link>https://packages.rizin.re/categories/dissassembly/</link>
       <pubDate>Sun, 10 Nov 2024 18:03:47 +0530</pubDate>
-      <guid>https://rizin.netlify.app/categories/dissassembly/</guid>
+      <guid>https://packages.rizin.re/categories/dissassembly/</guid>
       <description></description>
     </item>
   </channel>
